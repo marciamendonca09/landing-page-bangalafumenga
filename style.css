@@ -47,7 +47,7 @@ html, body {
 }
 
 .fixed {
-	background: url(background_menor.jpg) no-repeat center center;
+	background: url(banner_menor.jpg) no-repeat center center;
 	display: table;
 	height: 40%;
 	position: relative;
