@@ -1,0 +1,64 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+
+.home {
+	background: url(images/banner.png) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
+
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.landing-text h1 {
+	font-size: 300%;
+	font-weight: 700;
+	color: yellow;
+}
+
+.btn-outline-light {
+	border-color: yellow;
+}
+
+.menuFixo {
+    position: fixed;
+    top: 0px;
+    background-color: #AA0E0E;
+}
+
+.container {
+	background-color: #FFFEF5;
+	height: 100vh;
+}
+
+.container h2 {
+	font-weight: 700;
+	color: #D60F0F;
+}
+
+.fixed {
+	background: url(images/background_fixo.png) no-repeat center center fixed;
+	display: table;
+	height: 40%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
+.investimento {
+	background-color: #AA0E0E;
+	position: relative;
+}
+
+
+
